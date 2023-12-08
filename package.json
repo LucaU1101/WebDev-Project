@@ -1,0 +1,20 @@
+{
+  "name": "webdev-project",
+  "version": "1.0.0",
+  "description": "Web Dev Assignment for Kevin Ye ( C21421254 ) and Luca Ursache ( C21392706 )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mongoose": "^8.0.3",
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^8.0.0"
+  }
+}
